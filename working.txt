@@ -1,0 +1,8 @@
+we have four buttons
+press enter key to start the game, level one start. - a random button out of 4 buttons will flash.
+now user have to follow the sequence of the game .
+there will be two sequence one of game and one of user.
+
+
+if the game sequence matches the user's sequence then levelUp.
+if sequence is not same then game over.
